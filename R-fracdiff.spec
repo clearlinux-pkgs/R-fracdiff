@@ -4,7 +4,7 @@
 #
 Name     : R-fracdiff
 Version  : 1.5.2
-Release  : 41
+Release  : 42
 URL      : https://cran.r-project.org/src/contrib/fracdiff_1.5-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fracdiff_1.5-2.tar.gz
 Summary  : Fractionally Differenced ARIMA aka ARFIMA(P,d,q) Models
